@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="587px"
+   height="517px"
+   viewBox="0 0 587 517"
+   version="1.1"
+   id="svg4655"
+   sodipodi:docname="diagrams.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata4659">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     id="namedview4657"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:zoom="1.6166348"
+     inkscape:cx="123.81591"
+     inkscape:cy="372.86904"
+     inkscape:window-x="4"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Job-Array" />
+  <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4199">diagrams</title>
+  <desc
+     id="desc4201">Created with Sketch.</desc>
+  <defs
+     id="defs4244">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6454"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path6452" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5487"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#979797;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="ExperimentalArrow"
+       orient="auto-start-reverse"
+       refY="3.0"
+       refX="5.0"
+       id="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         id="path5719"
+         d="m 10,3 -10,3 0,-6 z"
+         style="fill:context-stroke;stroke:#979797;stroke-opacity:1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6086"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path6084" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6016"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path6014" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5952"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5950"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5900"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5898"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5854"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5852"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5608"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5469"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5750"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5748"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5466"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#979797;stroke-width:1pt;stroke-opacity:1;fill:#979797;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <rect
+       id="path-1"
+       x="0"
+       y="0"
+       width="104"
+       height="201"
+       rx="8" />
+    <rect
+       id="path-2"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-3"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-4"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-5"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-6"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-7"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-8"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-9"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-10"
+       x="0"
+       y="0"
+       width="104"
+       height="201"
+       rx="8" />
+    <rect
+       id="path-11"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-12"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-13"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-14"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-15"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-16"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-17"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-18"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-19"
+       x="3"
+       y="0"
+       width="104"
+       height="31"
+       rx="8" />
+    <rect
+       id="path-20"
+       x="0"
+       y="0"
+       width="104"
+       height="201"
+       rx="8" />
+    <rect
+       id="path-21"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-22"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-23"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-24"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-25"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-26"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-27"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-28"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-29"
+       x="3"
+       y="0"
+       width="104"
+       height="31"
+       rx="8" />
+    <rect
+       id="path-30"
+       x="0"
+       y="0"
+       width="104"
+       height="201"
+       rx="8" />
+    <rect
+       id="path-31"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-32"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-33"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-34"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-35"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-36"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-37"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-38"
+       x="4"
+       y="0"
+       width="62"
+       height="30"
+       rx="8" />
+    <rect
+       id="path-39"
+       x="3"
+       y="0"
+       width="104"
+       height="31"
+       rx="8" />
+    <rect
+       id="path-40"
+       x="3"
+       y="0"
+       width="104"
+       height="31"
+       rx="8" />
+    <rect
+       id="path-41"
+       x="15"
+       y="0"
+       width="104"
+       height="81"
+       rx="8" />
+  </defs>
+  <g
+     id="Job-Array"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Node"
+       transform="translate(16.000000, 315.000000)">
+      <g
+         id="Rectangle-Copy-5">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-1"
+           id="use4246" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="0.5"
+           y="0.5"
+           width="103"
+           height="200"
+           rx="8"
+           id="rect4248" />
+      </g>
+      <g
+         id="Group"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="Rectangle-Copy-6">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-2"
+             id="use4251" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4253" />
+        </g>
+        <text
+           id="Core-1"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4256">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="Group-Copy-2"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4264">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-3"
+             id="use4260" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4262" />
+        </g>
+        <text
+           id="text4268"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4266">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="Group-Copy"
+         transform="translate(17.000000, 78.000000)">
+        <g
+           id="g4275">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-4"
+             id="use4271" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4273" />
+        </g>
+        <g
+           id="Rectangle-Copy-7">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-5"
+             id="use4277" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4279" />
+        </g>
+        <text
+           id="Core-2"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4282">Core 2</tspan>
+        </text>
+      </g>
+      <g
+         id="Group-Copy-3"
+         transform="translate(17.000000, 118.000000)">
+        <g
+           id="g4290">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-6"
+             id="use4286" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4288" />
+        </g>
+        <g
+           id="g4296">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-7"
+             id="use4292" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4294" />
+        </g>
+        <text
+           id="Core-3"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4298">Core 3</tspan>
+        </text>
+      </g>
+      <g
+         id="Group-Copy-4"
+         transform="translate(17.000000, 158.000000)">
+        <g
+           id="g4306">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-8"
+             id="use4302" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4304" />
+        </g>
+        <g
+           id="g4312">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-9"
+             id="use4308" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4310" />
+        </g>
+        <text
+           id="Core-4"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4314">Core 4</tspan>
+        </text>
+      </g>
+      <text
+         id="Node-1"
+         font-family="HelveticaNeue-Bold, Helvetica Neue"
+         font-size="14"
+         font-weight="bold"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="28.3254297"
+           y="17"
+           id="tspan4318">Node 1</tspan>
+      </text>
+    </g>
+    <g
+       id="Node-Copy"
+       transform="translate(139.000000, 315.000000)">
+      <g
+         id="g4326">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-10"
+           id="use4322" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="0.5"
+           y="0.5"
+           width="103"
+           height="200"
+           rx="8"
+           id="rect4324" />
+      </g>
+      <g
+         id="g4338"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4332">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-11"
+             id="use4328" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4330" />
+        </g>
+        <text
+           id="text4336"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4334">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4350"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4344">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-12"
+             id="use4340" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4342" />
+        </g>
+        <text
+           id="text4348"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4346">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4368"
+         transform="translate(17.000000, 78.000000)">
+        <g
+           id="g4356">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-13"
+             id="use4352" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4354" />
+        </g>
+        <g
+           id="g4362">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-14"
+             id="use4358" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4360" />
+        </g>
+        <text
+           id="text4366"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4364">Core 2</tspan>
+        </text>
+      </g>
+      <g
+         id="g4386"
+         transform="translate(17.000000, 118.000000)">
+        <g
+           id="g4374">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-15"
+             id="use4370" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4372" />
+        </g>
+        <g
+           id="g4380">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-16"
+             id="use4376" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4378" />
+        </g>
+        <text
+           id="text4384"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4382">Core 3</tspan>
+        </text>
+      </g>
+      <g
+         id="g4404"
+         transform="translate(17.000000, 158.000000)">
+        <g
+           id="g4392">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-17"
+             id="use4388" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4390" />
+        </g>
+        <g
+           id="g4398">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-18"
+             id="use4394" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4396" />
+        </g>
+        <text
+           id="text4402"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4400">Core 4</tspan>
+        </text>
+      </g>
+      <text
+         id="Node-2"
+         font-family="HelveticaNeue-Bold, Helvetica Neue"
+         font-size="14"
+         font-weight="bold"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="28.3254297"
+           y="17"
+           id="tspan4406">Node 2</tspan>
+      </text>
+    </g>
+    <g
+       id="Group-2"
+       transform="translate(136.000000, 204.000000)">
+      <g
+         id="Rectangle-Copy-4">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-19"
+           id="use4410" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="3.5"
+           y="0.5"
+           width="103"
+           height="30"
+           rx="8"
+           id="rect4412" />
+      </g>
+      <text
+         id="Job-2"
+         font-size="14"
+         font-weight="normal"
+         style="font-weight:normal;font-size:14px;font-family:HelveticaNeue, 'Helvetica Neue';fill:#000000;fill-opacity:0.87000002">
+        <tspan
+           x="37.249035"
+           y="19"
+           id="tspan4415">Job 2</tspan>
+      </text>
+    </g>
+    <g
+       id="g4506"
+       transform="translate(262.000000, 315.000000)">
+      <g
+         id="g4423">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-20"
+           id="use4419" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="0.5"
+           y="0.5"
+           width="103"
+           height="200"
+           rx="8"
+           id="rect4421" />
+      </g>
+      <g
+         id="g4435"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4429">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-21"
+             id="use4425" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4427" />
+        </g>
+        <text
+           id="text4433"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4431">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4447"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4441">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-22"
+             id="use4437" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4439" />
+        </g>
+        <text
+           id="text4445"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4443">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4465"
+         transform="translate(17.000000, 78.000000)">
+        <g
+           id="g4453">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-23"
+             id="use4449" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4451" />
+        </g>
+        <g
+           id="g4459">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-24"
+             id="use4455" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4457" />
+        </g>
+        <text
+           id="text4463"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4461">Core 2</tspan>
+        </text>
+      </g>
+      <g
+         id="g4483"
+         transform="translate(17.000000, 118.000000)">
+        <g
+           id="g4471">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-25"
+             id="use4467" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4469" />
+        </g>
+        <g
+           id="g4477">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-26"
+             id="use4473" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4475" />
+        </g>
+        <text
+           id="text4481"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4479">Core 3</tspan>
+        </text>
+      </g>
+      <g
+         id="g4501"
+         transform="translate(17.000000, 158.000000)">
+        <g
+           id="g4489">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-27"
+             id="use4485" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4487" />
+        </g>
+        <g
+           id="g4495">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-28"
+             id="use4491" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4493" />
+        </g>
+        <text
+           id="text4499"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4497">Core 4</tspan>
+        </text>
+      </g>
+      <text
+         id="Node-3"
+         font-family="HelveticaNeue-Bold, Helvetica Neue"
+         font-size="14"
+         font-weight="bold"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="28.3254297"
+           y="17"
+           id="tspan4503">Node 3</tspan>
+      </text>
+    </g>
+    <g
+       id="g4517"
+       transform="translate(259.000000, 204.000000)">
+      <g
+         id="g4512">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-29"
+           id="use4508" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="3.5"
+           y="0.5"
+           width="103"
+           height="30"
+           rx="8"
+           id="rect4510" />
+      </g>
+      <text
+         id="Job-3"
+         font-family="HelveticaNeue, Helvetica Neue"
+         font-size="14"
+         font-weight="normal"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="37.2490334"
+           y="19"
+           id="tspan4514">Job 3</tspan>
+      </text>
+    </g>
+    <g
+       id="Node-Copy-2"
+       transform="translate(480.000000, 315.000000)">
+      <g
+         id="g4523">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-30"
+           id="use4519" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="0.5"
+           y="0.5"
+           width="103"
+           height="200"
+           rx="8"
+           id="rect4521" />
+      </g>
+      <g
+         id="g4535"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4529">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-31"
+             id="use4525" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4527" />
+        </g>
+        <text
+           id="text4533"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4531">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4547"
+         transform="translate(17.000000, 38.000000)">
+        <g
+           id="g4541">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-32"
+             id="use4537" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4539" />
+        </g>
+        <text
+           id="text4545"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4543">Core 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4565"
+         transform="translate(17.000000, 78.000000)">
+        <g
+           id="g4553">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-33"
+             id="use4549" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4551" />
+        </g>
+        <g
+           id="g4559">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-34"
+             id="use4555" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4557" />
+        </g>
+        <text
+           id="text4563"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4561">Core 2</tspan>
+        </text>
+      </g>
+      <g
+         id="g4583"
+         transform="translate(17.000000, 118.000000)">
+        <g
+           id="g4571">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-35"
+             id="use4567" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4569" />
+        </g>
+        <g
+           id="g4577">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-36"
+             id="use4573" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4575" />
+        </g>
+        <text
+           id="text4581"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4579">Core 3</tspan>
+        </text>
+      </g>
+      <g
+         id="g4601"
+         transform="translate(17.000000, 158.000000)">
+        <g
+           id="g4589">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-37"
+             id="use4585" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4587" />
+        </g>
+        <g
+           id="g4595">
+          <use
+             fill="#D8D8D8"
+             fill-rule="evenodd"
+             xlink:href="#path-38"
+             id="use4591" />
+          <rect
+             stroke="#979797"
+             stroke-width="1"
+             x="4.5"
+             y="0.5"
+             width="61"
+             height="29"
+             rx="8"
+             id="rect4593" />
+        </g>
+        <text
+           id="text4599"
+           font-family="HelveticaNeue, Helvetica Neue"
+           font-size="14"
+           font-weight="normal"
+           fill-opacity="0.87"
+           fill="#000000">
+          <tspan
+             x="15.4385"
+             y="19"
+             id="tspan4597">Core 4</tspan>
+        </text>
+      </g>
+      <text
+         id="Node-n"
+         font-family="HelveticaNeue-Bold, Helvetica Neue"
+         font-size="14"
+         font-weight="bold"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="27.9404297"
+           y="17"
+           id="tspan4603">Node </tspan>
+        <tspan
+           x="67.3504297"
+           y="17"
+           font-family="HelveticaNeue-BoldItalic, Helvetica Neue"
+           font-style="italic"
+           id="tspan4605">n</tspan>
+      </text>
+    </g>
+    <g
+       id="Group-2-Copy-2"
+       transform="translate(477.000000, 204.000000)">
+      <g
+         id="g4613">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-39"
+           id="use4609" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="3.5"
+           y="0.5"
+           width="103"
+           height="30"
+           rx="8"
+           id="rect4611" />
+      </g>
+      <text
+         id="Job-n"
+         font-family="HelveticaNeue, Helvetica Neue"
+         font-size="14"
+         font-weight="normal"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="37.2490334"
+           y="19"
+           id="tspan4615">Job </tspan>
+        <tspan
+           x="64.7450334"
+           y="19"
+           font-family="HelveticaNeue-Italic, Helvetica Neue"
+           font-style="italic"
+           id="tspan4617">n</tspan>
+      </text>
+    </g>
+    <g
+       id="Group-2-Copy"
+       transform="translate(13.000000, 204.000000)">
+      <g
+         id="g4625">
+        <use
+           fill="#D8D8D8"
+           fill-rule="evenodd"
+           xlink:href="#path-40"
+           id="use4621" />
+        <rect
+           stroke="#979797"
+           stroke-width="1"
+           x="3.5"
+           y="0.5"
+           width="103"
+           height="30"
+           rx="8"
+           id="rect4623" />
+      </g>
+      <text
+         id="Job-1"
+         font-family="HelveticaNeue, Helvetica Neue"
+         font-size="14"
+         font-weight="normal"
+         fill-opacity="0.87"
+         fill="#000000">
+        <tspan
+           x="37.2490334"
+           y="19"
+           id="tspan4627">Job 1</tspan>
+      </text>
+    </g>
+    <path
+       d="M379.5,216.5 L468.5,216.5"
+       id="Line"
+       stroke="#979797"
+       stroke-linecap="square"
+       stroke-dasharray="5" />
+    <path
+       d="M379.5,428.5 L468.5,428.5"
+       id="Line-Copy"
+       stroke="#979797"
+       stroke-linecap="square"
+       stroke-dasharray="5" />
+    <path
+       d="M66.5,239.5 L66.5,307.5"
+       id="path4633"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       id="Line-decoration-1"
+       d="M66.5,307.5 L69.5,296.7 L63.5,296.7 L66.5,307.5 Z"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       d="M192.5,239.5 L192.5,307.5"
+       id="Line-Copy-2"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       id="Line-Copy-2-decoration-1"
+       d="M192.5,307.5 L195.5,296.7 L189.5,296.7 L192.5,307.5 Z"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       d="M312.5,239.5 L312.5,307.5"
+       id="Line-Copy-3"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       id="Line-Copy-3-decoration-1"
+       d="M312.5,307.5 L315.5,296.7 L309.5,296.7 L312.5,307.5 Z"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       d="M533.5,239.5 L533.5,307.5"
+       id="Line-Copy-4"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <path
+       id="Line-Copy-4-decoration-1"
+       d="M533.5,307.5 L536.5,296.7 L530.5,296.7 L533.5,307.5 Z"
+       stroke="#000000"
+       fill="#000000"
+       stroke-linecap="square" />
+    <g
+       id="Rectangle">
+      <use
+         fill="#D8D8D8"
+         fill-rule="evenodd"
+         xlink:href="#path-41"
+         id="use4642" />
+      <rect
+         stroke="#979797"
+         stroke-width="1"
+         x="15.5"
+         y="0.5"
+         width="103"
+         height="80"
+         rx="8"
+         id="rect4644" />
+    </g>
+    <text
+       id="Job-Script"
+       font-family="HelveticaNeue, Helvetica Neue"
+       font-size="14"
+       font-weight="normal"
+       fill-opacity="0.87"
+       fill="#000000">
+      <tspan
+         x="34.6400281"
+         y="44"
+         id="tspan4647">Job Script</tspan>
+    </text>
+    <path
+       d="m 66.161601,84.283884 c 1.093113,38.600016 0.546556,74.002256 0.546556,110.429246"
+       id="Path-2"
+       style="stroke:#979797;marker-end:url(#marker5854)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="M124.959436,53.3481592 C140.679098,53.3481592 154.0999,53.3481592 161.435116,53.3481592 C179.594407,53.3481592 186.211381,64.4792744 188.953447,70.0114881 C194.112801,80.4206601 192.766095,108.891742 192.766095,118.727736 L192.766095,192.694991"
+       id="Path-3"
+       stroke="#979797"
+       style="marker-end:url(#TriangleOutL)" />
+    <path
+       d="M126.049479,33.1746892 C168.585924,33.1746892 223.080504,33.1746892 261.985581,33.1746892 C290.565633,33.1746892 301.035618,44.4749577 306.498716,53.5966496 C311.559269,62.0462142 315.591051,75.3709141 315.591051,108.818084 C315.591051,139.607728 315.591051,166.954708 315.591051,195.124358"
+       id="Path-4"
+       stroke="#979797"
+       style="marker-end:url(#marker5900)" />
+    <path
+       d="m 126.1589,16.113207 h 309.12562 c 48.59975,0 66.35036,0 85.56296,19.820924 17.75151,18.313556 11.39104,38.52665 11.70107,70.067509 0.31003,31.54086 -0.14903,68.24441 0,89.0779"
+       id="Path-5"
+       style="stroke:#979797;marker-end:url(#marker6454)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+  </g>
+</svg>
