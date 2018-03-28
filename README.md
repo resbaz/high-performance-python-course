@@ -4,4 +4,4 @@ A course explaining how to profile, optimise and parallelise your Python code, a
 
 Work-in-progress.
 
-Challenges are intended to run in Azure Notebooks.
+Challenges are intended to run in Azure Notebooks, which provides a Conda environment ready-to-go (https://notebooks.azure.com/).
