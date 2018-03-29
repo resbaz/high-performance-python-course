@@ -5,4 +5,4 @@
 
 module load Python/3.6.1-intel-2017.u2
 
-python word_count.py input_${SLURM_ARRAY_JOB_ID}.txt
+python word_count.py input_${SLURM_ARRAY_TASK_ID}.txt
