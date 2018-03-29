@@ -16,3 +16,8 @@ You can submit this job using:
 
 
 It should only take a few moments to run, but it might take some time until compute resources are available for you. You can find the results of each job in output files, which will look like `slurm-(job number)_(array index).out`.
+
+
+# How to Extend
+
+Instead of referring to input files directly using `SLURM_ARRAY_TASK_ID`, you might use this number in your script to dynamically look up a file name, or even look up a particular row in a CSV file which maps the inputs you'd like to use for the job.
